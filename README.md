@@ -1,4 +1,4 @@
-![The Sparks Foundation](https://images.app.goo.gl/x7Mo2dYUTvxdZVGR7)
+![](https://images.app.goo.gl/x7Mo2dYUTvxdZVGR7)
 
 # The Sparks Foundation Internship Program
 ## GADUATE ROTATIONAL INTERNSHIP PROGRAM (GRIP)
