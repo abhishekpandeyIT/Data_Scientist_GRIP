@@ -4,23 +4,21 @@
 ## GADUATE ROTATIONAL INTERNSHIP PROGRAM (GRIP)
 
 The Sparks Foundation offers one month Internship program to the students in different fields:
-<li>
 <ol>Data Science and Analytics</ol>
 <ol>Web Development</ol>
 <ol>App Development</ol>
 <ol>Business Analytics</ol>
-</li>
+
 
 I am also enrolled in the **Data Science and Analytics Internship** offered by [The Sparks Foundation]() for the Duration of AUG 2020-SEP 2020. During this internship program, they assigned me 5 Tasks with a deadline before which we have to submit the task by hosting a **GitHub** Repository. Along with this repository we have to also post our task in the LinkedIn and Telegram group of the organisation.
 
 This internship program donot focus only on our technical skills infact it also help us to increase our social interaction and bonding by there tasks. The 5 tasks which were assigned to me was:
-<li>
 <ol>LinkedIn Improvement Task</ol>
 <ol>To explore Supervised Learning</ol>
 <ol>To explore Unsupervised Learning</ol>
 <ol>To explore Decision Tree Algorithm</ol>
 <ol>To explore Business Analytics</ol>
-</li>
+
 
 <div>
 <h3>LinkedIn Improvement Task:</h3>
