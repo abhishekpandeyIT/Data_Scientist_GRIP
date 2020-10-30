@@ -4,10 +4,10 @@
 ## GADUATE ROTATIONAL INTERNSHIP PROGRAM (GRIP)
 
 The Sparks Foundation offers one month Internship program to the students in different fields:
-1. Data Science and Analytics
-2. Web Development
-3. App Development
-4. Business Analytics
+1. Data Science and Analytics.
+2. Web Development.
+3. App Development.
+4. Business Analytics.
 
 
 I am also enrolled in the **Data Science and Analytics Internship** offered by [The Sparks Foundation]() for the Duration of AUG 2020-SEP 2020. During this internship program, they assigned me 5 Tasks with a deadline before which we have to submit the task by hosting a **GitHub** Repository. Along with this repository we have to also post our task in the LinkedIn and Telegram group of the organisation.
